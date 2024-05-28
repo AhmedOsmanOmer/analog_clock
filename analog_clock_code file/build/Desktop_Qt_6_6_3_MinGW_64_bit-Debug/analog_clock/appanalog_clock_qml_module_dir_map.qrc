@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/analog_clock">C:/Users/Ahmed/Desktop/analog_clock/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/analog_clock</file>
+
+  </qresource>
+</RCC>

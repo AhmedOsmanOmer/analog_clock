@@ -1,0 +1,17 @@
+--bare
+-I
+C:/Users/Ahmed/Desktop/analog_clock/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug
+-I
+C:/Qt/6.6.3/mingw_64/./qml
+--resource
+C:/Users/Ahmed/Desktop/analog_clock/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/qmake_analog_clock.qrc
+--resource
+C:/Users/Ahmed/Desktop/analog_clock/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/appanalog_clock_raw_qml_0.qrc
+C:/Users/Ahmed/Desktop/analog_clock/Main.qml
+C:/Users/Ahmed/Desktop/analog_clock/Clock.qml
+C:/Users/Ahmed/Desktop/analog_clock/ClockNeedles.qml
+C:/Users/Ahmed/Desktop/analog_clock/ClockFunctions.qml
+C:/Users/Ahmed/Desktop/analog_clock/ClockFace.qml
+C:/Users/Ahmed/Desktop/analog_clock/DashedCircles.qml
+C:/Users/Ahmed/Desktop/analog_clock/ControlButtons.qml
+C:/Users/Ahmed/Desktop/analog_clock/DigitalTime.qml

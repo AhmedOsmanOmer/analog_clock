@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3058ae29584ceb8f6cd5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "analog_clock",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-78bde9d34f08c7bb2aeb.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-6935f2078ff4aab6594c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-f9bdb655c80b4355af7a.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-4cf261c164c09ced887d.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appanalog_clock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appanalog_clock-Debug-1a4ec41c30b45bc90d86.json",
+					"name" : "appanalog_clock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appanalog_clock_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appanalog_clock_autogen-Debug-efed11c324421076d73f.json",
+					"name" : "appanalog_clock_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appanalog_clock_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appanalog_clock_autogen_timestamp_deps-Debug-811a8dc051fac6e47a37.json",
+					"name" : "appanalog_clock_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appanalog_clock_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appanalog_clock_qmlimportscan-Debug-3fe4806c9844b258d809.json",
+					"name" : "appanalog_clock_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appanalog_clock_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appanalog_clock_qmllint-Debug-5598d994402bd3fa44be.json",
+					"name" : "appanalog_clock_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appanalog_clock_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appanalog_clock_qmllint_json-Debug-61fb7ef477a21486fc99.json",
+					"name" : "appanalog_clock_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appanalog_clock_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appanalog_clock_qmllint_module-Debug-8ccbbd61f9353be562f2.json",
+					"name" : "appanalog_clock_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appanalog_clock_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appanalog_clock_qmltyperegistration-Debug-96b9357dc5fab6bdd9fd.json",
+					"name" : "appanalog_clock_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appanalog_clock_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appanalog_clock_tooling-Debug-f73f083dd32acb1f21b2.json",
+					"name" : "appanalog_clock_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ahmed/Desktop/analog_clock/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Ahmed/Desktop/analog_clock"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/analog_clock/">
+    <file alias="Main.qml">C:/Users/Ahmed/Desktop/analog_clock/Main.qml</file>
+    <file alias="Clock.qml">C:/Users/Ahmed/Desktop/analog_clock/Clock.qml</file>
+    <file alias="ClockNeedles.qml">C:/Users/Ahmed/Desktop/analog_clock/ClockNeedles.qml</file>
+    <file alias="ClockFunctions.qml">C:/Users/Ahmed/Desktop/analog_clock/ClockFunctions.qml</file>
+    <file alias="ClockFace.qml">C:/Users/Ahmed/Desktop/analog_clock/ClockFace.qml</file>
+    <file alias="DashedCircles.qml">C:/Users/Ahmed/Desktop/analog_clock/DashedCircles.qml</file>
+    <file alias="ControlButtons.qml">C:/Users/Ahmed/Desktop/analog_clock/ControlButtons.qml</file>
+    <file alias="DigitalTime.qml">C:/Users/Ahmed/Desktop/analog_clock/DigitalTime.qml</file>
+  </qresource>
+</RCC>
+

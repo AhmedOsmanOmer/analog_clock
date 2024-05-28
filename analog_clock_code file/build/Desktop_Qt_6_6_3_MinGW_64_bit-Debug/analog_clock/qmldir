@@ -1,0 +1,12 @@
+module analog_clock
+typeinfo appanalog_clock.qmltypes
+prefer :/analog_clock/
+Main 1.0 Main.qml
+Clock 1.0 Clock.qml
+ClockNeedles 1.0 ClockNeedles.qml
+ClockFunctions 1.0 ClockFunctions.qml
+ClockFace 1.0 ClockFace.qml
+DashedCircles 1.0 DashedCircles.qml
+ControlButtons 1.0 ControlButtons.qml
+DigitalTime 1.0 DigitalTime.qml
+
